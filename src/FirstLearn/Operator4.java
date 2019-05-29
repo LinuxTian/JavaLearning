@@ -1,3 +1,5 @@
+package FirstLearn;
+
 public class Operator4 {
     public static void main(String[] args) {
         Method1();

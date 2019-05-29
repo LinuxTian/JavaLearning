@@ -1,3 +1,5 @@
+package FirstLearn;
+
 public class Operator5 {
     public static void main(String[] args) {
         Student s = new Student();

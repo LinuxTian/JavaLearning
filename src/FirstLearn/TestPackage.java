@@ -1,3 +1,5 @@
+package FirstLearn;
+
 import packageTest.AddStudent;
 
 public class TestPackage {

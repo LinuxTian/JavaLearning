@@ -1,3 +1,5 @@
+package FirstLearn;
+
 public class Test02 {
     public static void main(String[] args) {
         Animal a1 = new Cats();

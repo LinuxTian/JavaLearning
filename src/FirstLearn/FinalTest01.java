@@ -1,3 +1,5 @@
+package FirstLearn;
+
 public class FinalTest01{
 
     public static void main(String[] args){
