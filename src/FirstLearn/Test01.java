@@ -15,7 +15,7 @@ public class Test01 {
         B.m1();
     }
 }
-class Animal {
+class AnimalTest {
     public void hall() {
         System.out.println("It is an animal");
     }
@@ -23,7 +23,7 @@ class Animal {
         System.out.println("It's eating");
     }
 }
-class Tiger extends Animal {
+class Tiger extends AnimalTest {
     public void climb() {
         System.out.println("Tiger cannot climb tree");
     }
@@ -35,7 +35,7 @@ class Tiger extends Animal {
         super.eat();
     }
 }
-class Sheep extends Animal {
+class Sheep extends AnimalTest {
     public void eat() {
         System.out.println("Sheep eat grass");
     }
